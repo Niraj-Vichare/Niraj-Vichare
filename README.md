@@ -1,4 +1,4 @@
-<img src="github-header-banner (2)/.png" alt="Niraj Vichare - GitHub Banner" />
+<img src="./banner2.png" alt="Niraj Vichare - GitHub Banner" />
 # 👋 Hi there, I'm Niraj Vichare!
 I'm a web developer with a passion for creating dynamic and responsive web applications. Currently, I'm focused on honing my skills in full-stack development!
 
